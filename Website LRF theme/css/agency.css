@@ -65,6 +65,15 @@ h6 {
   text-shadow: none;
 }
 
+.img-detail {
+  padding-bottom: 2em;
+}
+
+::-moz-selection {
+  background: #8F2851;
+  text-shadow: none;
+}
+
 ::selection {
   background: #8F2851;
   text-shadow: none;
